@@ -35,6 +35,13 @@ output:
     - Clinical disease
     - Diagnosis and treatment
 - Arenaviruses
+    - History
+    - Virus geography
+    - Biology and current investigation
+    - Ecology and epidemiology
+    - Clinical disease
+    - Diagnosis and treatment
+    - Prevention and control
 - Bunyaviruses
 
 # Alphaviruses
@@ -76,7 +83,7 @@ output:
 
 ## A lot of alphaviruses have been described!!
 
-![](lecture_figures/FV_Alphaviridae.png){height=650px}
+![This is only A-P](lecture_figures/FV_Alphaviridae.png){height=650px}
 
 # Basics of alphavirus biology
 
@@ -190,13 +197,145 @@ output:
 
 # Arenaviruses
 
-## Easiest to separate by ecology rather than clades
+# History of Arenaviruses
 
-![Arenaviruses](lecture_figures/arenavirus_distribution.png){width=2000px}
+## Need to know Lassa, Limited number of outbreaks for others
 
-## Venezualen hemorrhagic fever
+- First discovered was lymphocytic choriomeningitis virus in 1933
+    - Found while studying St. Louis encephalitis
+
+- Many subsequent case reports involved other Arenaviruses
+    - Lassa Fever first infections 1969
+        - Old World, mostly in the region of the 2014 Ebola outbreak
+        - 300,000-500,000 cases annually, CFR Overall = 1%, CFR Severe Cases = 15%
+    - Tacaribe, 1956, but doesn't infect humans
+        - New World
+    - Junin, 1958: CFR = 15-30%
+        - New World, Argentina
+    - Machupo, 1963: CFR = 25%
+        - New World, Bolivia
+    - Guanarito, 1989: CFR = 25%
+        - New World, Venezuela
+    - Sabia, 1990: CFR = 1/3
+        - New World, Brazil
+    - White Water Arroyo, 1996: CFR = 3/3
+        - New World, New Mexico (same as Hantavirus)
+    - Chapare, 2008
+    - Lujo virus, 2008: CFR = 4/5
+    
+- Generally classified into two groups
+    - Old World: LCMV-Lassa complex
+    - New World: Tacaribe serocomplex
+
+# Biology of arenaviruses
+
+## Molecular biology of arenaviruses
+
+- Enveloped, segmented (-)ssRNA virus
+
+- Life cycle restricted to cellular cytoplasm
+
+- Similar to Ebola, it encodes RNA-dependent RNA polymerase
+
+- Use various cell surface receptors
+    - Some use extracellular matrix proteins
+    - Others including MACV and JUNV use the transferrin receptor
+
+# Epidemiology and ecology 
+
+## The reservoir for arenoviruses are rodents
+
+![Distribution of viruses are limited to their rodent host](lecture_figures/AV_epidemiology.png){height=650px}
+
+## Easiest to separate by geography rather than clades
+
+![Most of these have not been found in humans](lecture_figures/arenavirus_distribution.png){width=2000px}
+
+## Lassa is probably the most important to know geographically
+
+![In 2014, easily confused with Ebola](lecture_figures/lassa-distribution-map.jpg){height=650px}
+
+# Clinical manifestations
+
+## Other than LCMV, all of these viruses are similar
+
+- Old World (Lassa Fever) and New World are similar except that neurologic symptoms, -penias, and bleeding are less common for Old World viruses
+
+- Incubation time of 5-20 days
+
+- Disease begins with fever, chills, malaise, anorexia, headache, and myalgias
+
+- After several days, GI, neurologic and cardiac symptoms
+    - Nausea/Vomiting/Constipation/Diarrhea/Epigastric pain
+    - Dizziness/Photophobia/Retro-orbital pain
+    - Low back pain
+
+- During symptom onset they may experience swelling and bleeding gums, swelling and bleeding conjunctiva
+
+- Patients often develop petechiae from thrombocytopenia
+
+- Patients often experience bradycardia and orthostatic hypotension
+
+- Should __never have__ cough, sore throat or congestion to distinguish from flu
+    - There should be no pulmonary signs or symptoms
+    
+- During second week patients either begin to recover or begin to die
+
+## Hemorhaggic fever signs
 
 ![Ocular Manifestion of Argentine HF](lecture_figures/vhf_occular_manifestation.jpeg){width=500px}
 
 ![Gingival Manifestion of Argentine HF](lecture_figures/vhf_gingiva_manifestation.jpg){width=400px}
 
+# Diagnosis and treatment
+
+## Most important to know Lassa and Junin (AHF)
+
+- Isolation in Vero cells
+
+- ELISA for antigen
+    - Availability of specific antibodies are limited
+    - Lassa is best diagnosed with ELISA to IgM and antigen
+        - Antigen disppears when IgM emerges so testing both is critical
+        - Sensitivity is 90% at 48 hours
+        - Antigen is in blood within a few days of infection
+        - IgM peaks at 10-12 days
+        - IgG is present after 3 weeks
+
+- rtPCR
+
+- Fatal cases can be diagnosed with immunohistochemistry with fixed tissue
+
+- Neutralization assay is useful if specific convalescent serum is available
+
+## Supportive treatment is helpful
+
+- No steroids and no IFN-\(\gamma\)
+    - Except maybe steroids for cerebral edema
+
+- Only oral and IV therapies
+    - SubQ and IM often cause hematomas
+    
+- For ANF, secondary pneumonias are common
+
+- Platelets, activated factor VII, desmopressin, and transfusion have not been systemically evaluated
+
+- Specific treatments
+    - Ribavirin
+        - Effective in vitro against most arenaviruses
+            - This is not the case for Ebola
+        - Articles from mid-1980s indicate efficacy against Lassa in vivo
+            - Important for severe infections
+    
+    - Convalescent plasma
+        - AHF: Reduces CFR from 15-30% to 1%
+        - Lassa: Probably does not work
+    
+    - In pregnant patients, abortion improves survival of mother
+
+# Prevention and control
+
+## Do not play with rodents
+
+
+      
