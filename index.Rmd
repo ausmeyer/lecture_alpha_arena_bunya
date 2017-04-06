@@ -332,10 +332,27 @@ output:
         - Lassa: Probably does not work
     
     - In pregnant patients, abortion improves survival of mother
+    
+    - High-throughput screens with pseudo-typed virus indentifies several in vitro viral entry inhibitors
 
 # Prevention and control
 
 ## Do not play with rodents
 
+- All arenaviruses are difficult to transmit between humans
+    - It occassionally occurs by parenteral innoculation with Lassa
+    - Lassa may have had airborne transmission in one Nigerian outbreak
 
-      
+- Rodent control is sufficient for Bolivian hemorrhagic fever
+    - Won't work for Lassa because its reservoir is a common rat
+
+- Vaccines
+    - AHF live attentuated vaccine (Candid #1) developed in 1980's by Salk Institute
+        - Licensed in late 2000s for use exclusively in Argentina
+        - Very effective
+        - Probably has some cross over to Bolivian hemorrhagic fever
+    - Lassa
+       - Lots of smoke, but no fire so far
+       
+# Take home: Could probaby stop or at least control Arenaviruses...<br>There isn't enough money there to pursue
+    
