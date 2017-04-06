@@ -192,6 +192,10 @@ output:
 
 - Leukopenia is common
 
+## Generic Alphavirus timeline
+
+![](lecture_figures/AV_timeline.png){height=650px}
+
 ## Alphavirus diagnosis
 
 - There are specific rtPCR primers for all alphaviruses and IgM serologies are very specific 
