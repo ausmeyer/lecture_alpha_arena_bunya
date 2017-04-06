@@ -155,6 +155,10 @@ output:
 
 - May be maintained in mosquitoes via vertical transmission
 
+## Geography of CHIKV
+
+![](lecture_figures/AV_CHIKV_geography.png){width=2000px}
+
 # Clinical disease
 
 ## New World alphaviruses produce primarily encephalitis<br>so we'll skip the rest
