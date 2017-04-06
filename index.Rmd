@@ -6,7 +6,7 @@ output:
   revealjs::revealjs_presentation:
     self_contained: false
     reveal_plugins: ["notes", "chalkboard", "zoom", "search"]
-    incremental: true
+    incremental: false
     highlight: pygments
     center: true
     transition: slide
