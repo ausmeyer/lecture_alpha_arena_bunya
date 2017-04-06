@@ -27,22 +27,30 @@ output:
 .reveal h2 { font-size: 1.8em;}
 </style>
 
-- Alphaviruses
-    - History
-        - New World (essentially western hemisphere)
-        - Old World (essentially eastern hemisphere)
-    - Basics of their biology
-    - Clinical disease
-    - Diagnosis and treatment
-- Arenaviruses
-    - History
-    - Virus geography
-    - Biology and current investigation
-    - Ecology and epidemiology
-    - Clinical disease
-    - Diagnosis and treatment
-    - Prevention and control
-- Bunyaviruses
+- Arboviruses
+    - Serogroup A (Alphaviruses)
+        - History
+            - New World
+            - Old World
+        - Basics of their biology
+        - Clinical disease
+        - Diagnosis and treatment
+    - Serogroup B (Flaviviruses - covered later)
+    - Serogroup C (Bunyaviruses)
+        - Brief history and categorization
+        - Several Viruses
+            - Geographic distribution
+            - Relevant diseases
+            - Diagnosis and treatment
+- Other viruses that cause VNF
+    - Arenaviruses
+        - History
+        - Virus geography
+        - Biology and current investigation
+        - Ecology and epidemiology
+        - Clinical disease
+        - Diagnosis and treatment
+        - Prevention and control
 
 # Alphaviruses
 
@@ -149,7 +157,7 @@ output:
 
 # Clinical disease
 
-## New World alphaviruses produce primarily encephalitis
+## New World alphaviruses produce primarily encephalitis<br>so we'll skip the rest
 
 ## Old World alphaviruses produce polyarthralgia and rash
 
@@ -184,8 +192,6 @@ output:
 
 - There are specific rtPCR primers for all alphaviruses and IgM serologies are very specific 
 
-- New World viruses
-
 - Old World viruses
     - CHIKV: PCR, IgM present for two months, 
     - ONNV: PCR in early illness, IgM present for two months
@@ -194,6 +200,113 @@ output:
     - BFV: Serology?
 
 ## Treatment is supportive and symptomatic.<br><br>There are many vaccines under development as well as medications that are specific for the etiology of these arthralgias/myalgias.<br><br>Do your best!
+
+# Bunyaviruses
+
+# History and categorization
+
+## History of Bunyaviruses
+
+- First discovered in mosquitoes in 1943 during a yellow fever outbreak
+
+- Essentially the largest class of RNA viruses
+    - There are more than 350 categorized
+
+- All of them except for Hantaviruses (i.e. probably the only ones we care about) are spread via arthropods
+    - Can also be spread by blood contamination
+
+## Categorization of Bunyaviruses
+
+- (-)ssRNA virus
+    - Segmented genome
+    - Phylogenetically more in common with Arenaviruses and Ebola than other Arboviruses
+    
+- There are five genuses
+    - Four cause human infections
+    
+- The diseases that I think we should have heard of:
+    - Phlebovirus: Rift Valley Fever
+    - Nariovirus: Crimean-Congo Hemorrhagic Fever (CCHF)
+    - Hantavirus: Seoul virus, Sin nombre (Nameless) virus (Hanta Pulmonary Syndrome)
+    - Orthobunyavirus: Probably none
+    
+# Several viruses in series
+
+## Rift Valley Fever geography
+
+![Since 2000 there have probably been around 1000 cases in humans](lecture_figures/rvf-distribution-map.jpg){height=650px}
+
+## Rift Valley Fever patients are not very sick
+
+- Causes massive spontaneous abortion epidemics in livestock
+    - Typically human outbreaks occur in the waning stage of livestock outbreaks
+    - Transmitted by mosquitoes and direct blood transmission
+    - Must ask about contacts!
+
+- No documnated cases of human-to-human transmissions
+
+- Incubation time of 2-6 days
+
+- Typically: Fever, generalized weakness, back pain, dizziness. Most recover in a few days
+
+- Around 10% get severe disease
+    - Ocular form: Lesions anywhere on the eye within 1-3 weeks and resolved within 12
+    - Encephalitis: About 1% of infections.
+    - Hemorrhagic fever: Although this is around 1% of infections, death occurs in 50%.
+        - Death occurs 3-6 days after hemorrhagic fever
+
+- Diagnose with standard PCR, ELISA-Ag, ELISA-IgM
+
+- No specific treatment and generally not necessary
+
+## Rift Valley Fever life cycle
+
+![](lecture_figures/rvf_life_cycle.jpg){height=650px}
+
+## CCHF Geography
+
+![](lecture_figures/cchf-distribution-map-v2.jpg){height=650px}
+
+## CCHF patients are very sick
+
+- Spead by ixodes (hard) ticks
+    - Also serve as reservoir
+    - Transmission can also happen by direct blood contamination
+  
+- Typically: Sudden onset with headache, high fever, back pain, joint pain, stomach pain, vomiting (influenza-life syndrome)
+
+- Commonly: Conjunctivitis, flushed face, palatal petechiae
+
+- Occasionally: Jaundice, mood changes, sensory misperception
+
+- Progresses to uncontrolled bleeding, bruising starting of day 4 with CFR = 10-50%
+
+- Diagnosis: Same as Rift Valley Fever
+
+- Treatment: Sensitive in vitro to Ribavirin. Supportive care in shock phase.
+
+- Prevention: Agricultural workers need tick precautions
+    - There is an inactivated mouse-brain derived vaccine that is only used in some sketchy parts of Europe
+
+## (Hantaviruses) Hemorrhagic fever with renal syndrome geography
+
+- Viruses (there are several that cause this) are found worldwide, but outbreaks previously occurred mostly in Asia
+
+- We are in the midst of an outbreak of Seoul virus right now (it has really ended as of 03/2017)!
+    - Currently 17 cases in 15 states
+    - Started in rat breeders in the midwest 
+
+- Transmission is identical HPS with aerosolized excreta
+
+- Incubation time is 1-2 weeks usually but can take up to 8 weeks
+
+- Sudden onset headaches, back and abdominal pain, fever, chills, nausea, and blurred vision
+
+- In less than 5% progresses to hypotension, shock, and acute renal failure
+
+- Diagnosis: Same as above
+
+- Treatment: Supportive
 
 # Arenaviruses
 
@@ -354,5 +467,4 @@ output:
     - Lassa
        - Lots of smoke, but no fire so far
        
-# Take home: Could probaby stop or at least control Arenaviruses...<br>There isn't enough money there to pursue
-    
+# Take home: Could control or stop Arenaviruses<br>There isn't enough money there to pursue it
